@@ -1,18 +1,17 @@
+# BMI Calcuator
+
+A simple flutter app to calculate BMI value of your body using beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
+It is  a multi screen app with simple functionality but full-on custom styling. 
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
 
 
-BMI Calcuator
-A simple flutter app to calculate BMI value of your body using beautiful designs made by Ruben Vaalt. It is a multi screen app with simple functionality but full-on custom styling.
+## Authors
 
-🔗 Links
-twitter
+- [@Chamidilshan](https://www.github.com/Chamidilshan)
 
-Authors
-@Chamidilshan
-Lessons Learned
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-
-## What did I learn from creating this app from bootcamp
+## Lessons Learned
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
