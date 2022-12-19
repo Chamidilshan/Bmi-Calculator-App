@@ -2,18 +2,20 @@
 
 A simple flutter app to calculate BMI value of your body using beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 It is  a multi screen app with simple functionality but full-on custom styling. 
-## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
-
-
 ## Authors
 
 - [@Chamidilshan](https://www.github.com/Chamidilshan)
 
 
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+
+
 ## Lessons Learned
 
-- How to use Flutter themes to create coherent branding. 
+- How to use Flutter themes. 
 - How to create multi-page apps using Flutter Routes and Navigator.
 - How to extract and refactor Flutter Widgets with a click of the button. 
 - How to pass functions as parameters and fields.
@@ -24,6 +26,9 @@ It is  a multi screen app with simple functionality but full-on custom styling.
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+
+## Appendix
+
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
